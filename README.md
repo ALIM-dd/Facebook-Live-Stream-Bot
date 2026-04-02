@@ -13,7 +13,7 @@
 · Logging system with error handling
 
 # Contact:
-Telegra :[@mariabosser](https://t.me/mariabosser)
+Telegram :[@mariabosser](https://t.me/mariabosser)
 
 
 Telegram Channel: https://t.me/Sectools1
